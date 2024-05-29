@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Ingénieur Logiciel",
+    "organisation": "Google",
+    "startDate": "Septembre 2022",
+    "endDate": "Présent",
+    "experiences": ["Travaillé sur Google Maps", "Réduit les temps de chargement de 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Designer UI",
+    "organisation": "Microsoft",
+    "startDate": "Août 2021",
+    "endDate": "Août 2022",
+    "experiences": ["Travaillé sur Windows 11", "Conçu le panneau de contrôle"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Stagiaire en Ingénierie Logicielle",
+    "organisation": "Netflix",
+    "startDate": "Avril 2020",
+    "endDate": "Juin 2020",
+    "experiences": [
+      "Travaillé sur la bibliothèque de composants",
+      "Aidé à créer des composants UI"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

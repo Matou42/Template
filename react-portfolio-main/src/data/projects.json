@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Projet A",
+    "imageSrc": "projects/project.png",
+    "description": "Ceci est un projet réalisé pour apprendre les derniers langages en construisant une application.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Projet B",
+    "imageSrc": "projects/project.png",
+    "description": "Ceci est un projet réalisé pour apprendre les derniers langages en construisant une application.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Projet C",
+    "imageSrc": "projects/project.png",
+    "description": "Ceci est un projet réalisé pour apprendre les derniers langages en construisant une application.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
